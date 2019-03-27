@@ -1,0 +1,13 @@
+C:\Users\Raphael\Documents\Biométrie\Biométrie\bin\Release\Biométrie.exe.config
+C:\Users\Raphael\Documents\Biométrie\Biométrie\bin\Release\Biométrie.exe
+C:\Users\Raphael\Documents\Biométrie\Biométrie\bin\Release\Biométrie.pdb
+C:\Users\Raphael\Documents\Biométrie\Biométrie\bin\Release\MySql.Data.dll
+C:\Users\Raphael\Documents\Biométrie\Biométrie\obj\Release\Biométrie.connexion.resources
+C:\Users\Raphael\Documents\Biométrie\Biométrie\obj\Release\Biométrie.Form1.resources
+C:\Users\Raphael\Documents\Biométrie\Biométrie\obj\Release\Biométrie.inscription.resources
+C:\Users\Raphael\Documents\Biométrie\Biométrie\obj\Release\Biométrie.Properties.Resources.resources
+C:\Users\Raphael\Documents\Biométrie\Biométrie\obj\Release\Biométrie.csproj.GenerateResource.Cache
+C:\Users\Raphael\Documents\Biométrie\Biométrie\obj\Release\Biométrie.exe
+C:\Users\Raphael\Documents\Biométrie\Biométrie\obj\Release\Biométrie.pdb
+C:\Users\Raphael\Documents\Biométrie\Biométrie\obj\Release\Biométrie.csprojResolveAssemblyReference.cache
+C:\Users\Raphael\Documents\Biométrie\Biométrie\obj\Release\Biométrie.Ajout.resources
